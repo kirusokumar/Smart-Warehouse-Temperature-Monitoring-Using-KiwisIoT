@@ -22,7 +22,7 @@ The ESP8266 collects temperature readings, checks the configured temperature lim
 |---|---|
 | VCC | 3.3V |
 | GND | GND |
-| DATA | D2 (GPIO4) |
+| DATA | D4 |
 
 A 4.7kΩ pull-up resistor is connected between DATA and 3.3V.
 
